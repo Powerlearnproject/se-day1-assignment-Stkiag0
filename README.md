@@ -15,12 +15,12 @@ Key Milestones include the development of programming languages e.g., Fortran, P
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-   -Requirements: Gathering and documenting user needs and system requirements.
-  - Design: Creating high-level and detailed designs of the software architecture and user interface.
-  - Implementation: Writing code and building the software according to the design specifications.
-  - Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
-  - Deployment: Releasing the software to users or customers.
-  - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
+  1 Requirements: Gathering and documenting user needs and system requirements.
+  2 Design: Creating high-level and detailed designs of the software architecture and user interface.
+  3 Implementation: Writing code and building the software according to the design specifications.
+  4 Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+  5 Deployment: Releasing the software to users or customers.
+  6 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
